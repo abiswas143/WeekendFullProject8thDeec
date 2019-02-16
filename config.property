@@ -1,0 +1,3 @@
+URL=http:localhost:90/login.do
+USERNAME=admin
+PASSWORD=manager
